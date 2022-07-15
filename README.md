@@ -1,6 +1,6 @@
 # Networking
 
->[LAN Sample](1.%20Simple%20Network/4.Router/sample.png)<br>
+>[LAN Sample](1.%20Simple%20Network/4.Router/sample.png)<br> 
 >[Server Configuration Sample](2.%20Server%20configuration/3.FTP/sample.png)<br>
 >[Subnetting Sample](3.%20Subnetting/sample.png)<br>
 >[Routing Sample](4.%20Static%20Routing/1.Static%20Routing-sample.png)<br>
